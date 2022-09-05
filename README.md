@@ -28,7 +28,9 @@
 
 <br />
 <div id="header" align="center">
-  📫 How to reach me: You may reach out on kveronica0119@gmail.com.
+  📫 How to reach me: You may reach out on 
+  <a
+  href = "mailto: kveronica0119@gmail.com"> kveronica0119@gmail.com<a>
 </div>
 
 <br />
