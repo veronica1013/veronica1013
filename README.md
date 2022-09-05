@@ -7,7 +7,7 @@
 </div>
 
 <div id="header" align="center">
-  Isiaho veronica is my name.
+  Isiaho Veronica is my name.
 </div>
 <br />
 
